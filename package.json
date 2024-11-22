@@ -1,0 +1,12 @@
+{
+  "name": "javascript-repo",
+  "version": "1.0.0",
+  "main": "laern-javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
